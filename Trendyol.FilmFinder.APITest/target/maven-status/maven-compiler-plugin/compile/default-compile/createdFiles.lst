@@ -1,0 +1,4 @@
+trendyol\filmfinder\apitest\App.class
+trendyol\filmfinder\apitest\operations\GetFilmId.class
+trendyol\filmfinder\apitest\repository\FilmContent.class
+trendyol\filmfinder\apitest\operations\FindFilmById.class
